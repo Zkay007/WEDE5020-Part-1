@@ -100,3 +100,11 @@ The navigation menu will allow visitors to move between all five main pages.
 Future Changes
 
 Further changes will be recorded here during Part 2 and Part 3 of the project.
+
+References
+
+South African Qualifications Authority (SAQA) (n.d.) National Occupational Certificate: Plumber. Available at: https://regqs.saqa.org.za/viewQualification.php?id=124445 (Accessed: 17 August 2026).
+
+South African Qualifications Authority (SAQA) (n.d.) Occupational Certificate: Electrician. Available at: https://regqs.saqa.org.za/viewQualification.php?id=91761 (Accessed: 17 August 2026).
+
+World Wide Web Consortium (W3C) (2023) Web Content Accessibility Guidelines (WCAG) 2.2. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 17 August 2026).
